@@ -1,0 +1,16 @@
+{
+  "name": "my-local-test-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node server.js",
+    "bash": "bash scripts/bash-script.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
